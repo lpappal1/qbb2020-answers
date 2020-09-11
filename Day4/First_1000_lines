@@ -1,0 +1,14 @@
+            0            1      2
+0    STRG.1.1  ATCGCGACTTT     16
+1     droYak2  CGGTTCATCAA  99988
+2    STRG.1.1  TCGCGACTTTG     17
+3     droYak2  CGGTTCATCAA  99988
+4    STRG.1.1  TTTGTGTGTGT     24
+..        ...          ...    ...
+995   droYak2  CGGTTCATCAA  99988
+996  STRG.4.1  TGTCGCTGATG    173
+997   droYak2  CGGTTCATCAA  99988
+998  STRG.4.1  AGTGTGTTGTG    197
+999   droYak2  CGGTTCATCAA  99988
+
+[1000 rows x 3 columns]
